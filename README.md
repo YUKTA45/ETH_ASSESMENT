@@ -71,7 +71,7 @@ Once the contract is deployed, you can interact with it by calling the mint and 
 
 ## Authors
 
-Metacrafter Chris  
+Yukta 
 [@Chandigarh University](https://www.linkedin.com/in/yukta-/)
 
 
